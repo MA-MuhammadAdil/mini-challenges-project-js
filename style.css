@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+
+}
+
+.counter{
+    border-bottom: 2px solid black;
+}
+
+.count{
+    font-size: 3rem;
+}
+button{
+    background-color: cyan;
+    padding: 10px 16px;
+    border: 1px solid gray;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+#inp{
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+    margin: 16px 8px;
+}
